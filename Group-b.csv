@@ -1,5 +1,4 @@
 * This is the csv file that clones the teams git repo and contains all the scripts of the team members.
-* The Repo (GSU_GROUB_B)was first cloned using the command line "git clone https://github.com/bennywak/DANBALA.git" 
 * the directory was chaned to the folder using "cd GSU_GROUP_B"
 * The script were run with necessary parametres  and were all captured in text file " cat script >> output.txt"
 * the text files were converted to a single csv file using "awk ' {ptint $1 "," $3}' outpot.txt > Group-b.csv"
