@@ -8,8 +8,7 @@
 
 goCopycodepackagemain
 import(
-"fmt"
-)
+"fmt" )
 funcmain(){
 Name:="BEAIAHWAKUMA"
 Email:="wakumabenaiah@gmail.com"
